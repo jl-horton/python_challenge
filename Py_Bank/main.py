@@ -1,8 +1,7 @@
 import os 
 import csv 
 # Import the csv file
-#budget_csv = os.path.join('..', 'Resources', 'PyBank_Resources_budget_data.csv')
-budget_csv = '\\D:\\Bootcamp\\Homework\\Python\\python_challenge\\Py_Bank\\Resources\\budget_data.csv'
+budget_csv = os.path.join('Resources', 'budget_data.csv')
 # Set initial variables
 month_count = 0 
 total_profloss = 0
